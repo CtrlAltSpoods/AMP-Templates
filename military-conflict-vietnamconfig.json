@@ -34,7 +34,7 @@
         "InputType": "text",
         "IsFlagArgument": false,
         "ParamFieldName": "map",
-        "IncludeInCommandLine": true,
+        "IncludeInCommandLine": false,
         "DefaultValue": "mcv_siege",
         "EnumValues": {}
     },
@@ -50,5 +50,5 @@
         "IncludeInCommandLine": false,
         "DefaultValue": "",
         "EnumValues": {}
-    }
+    },
 ]
