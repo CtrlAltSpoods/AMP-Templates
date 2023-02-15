@@ -1,0 +1,54 @@
+[
+    {
+        "DisplayName": "Tickrate",
+        "Category": "",
+        "Description": "Set Server Tickrate",
+        "Keywords": "tick rate",
+        "FieldName": "tickrate",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "tickrate",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "128",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Max Players",
+        "Category": "",
+        "Description": "Maximum players allowed to join server",
+        "Keywords": "",
+        "FieldName": "maxplayers",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "maxplayers",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "16",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Map",
+        "Category": "",
+        "Description": "Select server map.",
+        "Keywords": "",
+        "FieldName": "map",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "map",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "mcv_siege",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Owner Steam Account",
+        "Category": "",
+        "Description": "Use this to manage at: https://steamcommunity.com/dev/managegameservers ",
+        "Keywords": "",
+        "FieldName": "sv_setsteamaccount",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "sv_setsteamaccount",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    }
+]
